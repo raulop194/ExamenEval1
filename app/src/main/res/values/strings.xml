@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">ExamenEval</string>
+    <string name="total">Subtotal</string>
+    <string name="product">Producto</string>
+    <string name="jabon_de_manos_x1">Jabon de manos X1</string>
+    <string name="shampoo_monster_x_1">Shampoo Monster x 1</string>
+    <string name="pastas_dur_a_x_2">Pastas Duría x 2</string>
+    <string name="detergente_limdiadin_x_1">Detergente Limdiadin x 1</string>
+    <string name="_2">$2</string>
+    <string name="_10">$10</string>
+    <string name="_18">$18</string>
+    <string name="_13_4">$13,4</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="costo_env_o">Costo envío</string>
+    <string name="cup_n">Cupón</string>
+    <string name="total_2">Total</string>
+    <string name="_43_4">$43,4</string>
+    <string name="_10_cup">$10</string>
+    <string name="_5">-$5</string>
+    <string name="_48_4">$48,4</string>
 </resources>
